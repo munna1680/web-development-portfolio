@@ -144,10 +144,11 @@ main section{
     margin:30px 5px;
 }
 .resume-download-cv{
-    margin: 0px;
+    margin-top: 0px;
 }
 /* footer styles */
 footer{
+    margin-top: 50px;
     padding: 130px 230px;
     display: flex;
     gap: 100px;
